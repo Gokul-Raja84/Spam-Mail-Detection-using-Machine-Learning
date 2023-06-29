@@ -48,4 +48,8 @@ Resources
 
 Acknowledgments 
 
-This project was inspired by the need to develop an effective spam email detection system to enhance email security and filtering. The dataset used in this project was sourced from Kaggle and Additionally, I have uploaded the dataset for you to download and use in your own use case.
+  This project was inspired by the need to develop an effective spam email detection system to enhance email security and filtering. 
+  The dataset used in this project was sourced from Kaggle and Additionally, I have uploaded the dataset for you to download and use in your own use case.
+
+
+#### Feel free to explore the code, modify it according to your needs, and experiment with different approaches to improve the spam email detection mode !
